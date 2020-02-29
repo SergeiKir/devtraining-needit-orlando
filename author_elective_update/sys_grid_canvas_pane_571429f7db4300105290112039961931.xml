@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA NeedIt Application - New Tab">b7b3adb7db4300105290112039961989</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 25.02.2020 14:01:26">9b1429f7db430010529011203996192f</portal_widget>
+        <posx>0</posx>
+        <posy>200</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>sergei.kiriljuk</sys_created_by>
+        <sys_created_on>2020-02-25 13:01:26</sys_created_on>
+        <sys_id>571429f7db4300105290112039961931</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>b7b3adb7db4300105290112039961989</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_571429f7db4300105290112039961931</sys_update_name>
+        <sys_updated_by>sergei.kiriljuk</sys_updated_by>
+        <sys_updated_on>2020-02-25 13:02:11</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ead3b85adb1b53c0cbf6d5b0cf961944</instance_id>
+        <instance_name>dev65282</instance_name>
+        <name>sys_grid_canvas_pane_571429f7db4300105290112039961931</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA NeedIt Application - New Tab">b7b3adb7db4300105290112039961989</grid_canvas><height>10</height><portal_widget display_value="Created 25.02.2020 14:01:26">9b1429f7db430010529011203996192f</portal_widget><posx>0</posx><posy>200</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>sergei.kiriljuk</sys_created_by><sys_created_on>2020-02-25 13:01:26</sys_created_on><sys_id>571429f7db4300105290112039961931</sys_id><sys_mod_count>20</sys_mod_count><sys_name>b7b3adb7db4300105290112039961989</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_grid_canvas_pane_571429f7db4300105290112039961931</sys_update_name><sys_updated_by>sergei.kiriljuk</sys_updated_by><sys_updated_on>2020-02-25 13:02:11</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-1323903253</payload_hash>
+        <record_name>b7b3adb7db4300105290112039961989</record_name>
+        <reverted_from/>
+        <source>e6cec5abdb0700105290112039961999</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>sergei.kiriljuk</sys_created_by>
+        <sys_created_on>2020-02-25 13:02:11</sys_created_on>
+        <sys_id>1644213bdb4300105290112039961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1707c70c92f0000001</sys_recorded_at>
+        <sys_updated_by>sergei.kiriljuk</sys_updated_by>
+        <sys_updated_on>2020-02-25 13:02:11</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>5e44213b98430010c99ee06b34e4fc45</update_guid>
+        <update_guid_history>5e44213b98430010c99ee06b34e4fc45:-1323903253,0a44edf790430010923afa8f9a8a05f2:898988353,b144edf7354300107e6dba6f774a949b:414351522,2144edf7ba430010082ed810074e374d:-70285309,d544edf7ae430010e66b7a93771f6400:-554922140,cd44adf787430010453bb073d83478b3:-1039558971,f844adf769430010bd43b96293697c55:-1524195802,e444adf7034300108288b3748fb8a21d:-2008832633,d4446df78f430010b9b86227d545eaa6:1801497832,00446df7e64300108706b25fcf98f52a:1316861001,0844e9f77b43001089288ba795bf7656:832224170,37342df7e2430010ea1dd34fa0971b27:1258351682,2f34e9f775430010f8dbc6e0d38e48e5:773714851,db34e9f79c430010d2c5497226617caa:289078020,973429f70c430010d14e44579232dea9:-195558811,8334a9f71f4300109209860fb138941e:-680195642,8f3429f7df430010a831d36a68bd9a83:-1164832473,fe3469f70a43001016eab9cbbd0c5ff5:-1649469304,ba34a9f70c43001079d9f84a5c7cc7ab:-2134106135,e234a9f7344300101a52bcebc33fc075:1676224330,971429f7ff4300102f430fc6e1eac432:-944582615</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sergei.kiriljuk</sys_created_by>
+        <sys_created_on>2020-02-25 13:02:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>18c1e40a06fc47a6b19355ea791c6fa4</sys_id>
+        <sys_metadata>571429f7db4300105290112039961931</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b7b3adb7db4300105290112039961989</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_571429f7db4300105290112039961931</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_571429f7db4300105290112039961931">1644213bdb4300105290112039961946</sys_update_version>
+        <sys_updated_by>sergei.kiriljuk</sys_updated_by>
+        <sys_updated_on>2020-02-25 13:02:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
